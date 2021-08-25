@@ -1,2 +1,2 @@
-# Graph
- There are some codes about implementing of Database structure of Graph
+# Database Structure
+ There are some codes about implementing of Database structure.
